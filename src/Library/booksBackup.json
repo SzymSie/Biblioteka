@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "ISBN": 1111,
+        "lastRentalDate": "2020-01-01",
+        "borrowerName": "John Smith"
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "ISBN": 2222,
+        "lastRentalDate": "2020-02-02",
+        "borrowerName": "Carlos Santana"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F.Scott Fitzgerald",
+        "ISBN": 3333,
+        "lastRentalDate": "2020-03-03",
+        "borrowerName": "David Jones"
+    }
+]
